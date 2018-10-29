@@ -1,0 +1,26 @@
+{
+  "name": "my-portfolio",
+  "version": "1.0.0",
+  "engines": {
+  "node": "8.12.0"
+},
+  "description": "This is my portfolio",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Gabriela",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabyRive/2018-portfolio.git"
+  },
+  "homepage": "https://github.com/GabyRive/2018-portfolio#readme",
+  "bugs": {
+    "url": "https://github.com/GabyRive/2018-portfolio/issues"
+  }
+}
